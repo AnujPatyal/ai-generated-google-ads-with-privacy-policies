@@ -1,10 +1,10 @@
-##AI-Generated Google Ads with Privacy Policies
+AI-Generated Google Ads with Privacy Policies
 
-#🚀 Overview
+🚀 Overview
 
 This project automates the generation of Google Ads while ensuring compliance with privacy policies. Using AI, it streamlines ad creation, making it efficient and aligned with legal requirements. Ideal for businesses looking to scale their advertising campaigns without compromising on privacy.
 
-#📌 Features
+📌 Features
 
 AI-Powered Ad Generation: Create engaging Google Ads effortlessly.
 
@@ -14,14 +14,14 @@ Customizable: Tailor ad content based on specific campaign needs.
 
 Efficiency Boost: Reduces manual effort and speeds up ad deployment.
 
-#📂 Project Structure
+📂 Project Structure
 
 ├── google1.py          # Main script for generating ads
 ├── requirements.txt    # Required dependencies
 ├── README.md           # Documentation
 └── LICENSE             # License information
 
-#🔧 Installation
+🔧 Installation
 
 Clone the repository:
 
@@ -35,7 +35,7 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-#🛠 Usage
+🛠 Usage
 
 Run the main script to generate ads:
 
@@ -43,11 +43,11 @@ python google1.py
 
 Customize the input parameters within google1.py to fit specific advertising needs.
 
-#📜 License
+📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#📬 Contact
+📬 Contact
 
 For any queries or contributions, feel free to reach out via GitHub Issues.
 
